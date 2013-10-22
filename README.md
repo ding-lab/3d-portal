@@ -2,7 +2,7 @@
 ===========
 3D mutation proximity visualization portal
 
-SUPPORT
+WEBPAGE
 -------
 
         address in TGI : http://linus2251:8080/3d-portal/jsp/index.jsp 
